@@ -1,4 +1,4 @@
-# Quench detection software
+# Tape measurement testbench software
 
 A simple quench detection system for measuring superconducting parameters of HTS tapes.
 
