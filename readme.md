@@ -18,7 +18,7 @@ A simple quench detection system for measuring superconducting parameters of HTS
 
 - **TDK Genesys+ Power Supply**
   - Receives SCPI commands from the Python script
-  - Performs the current ramp
+  - Performs the a current ramp
   - If an interlock signal is received thourg the DB26 connector, it immediately shuts off the current
 
 ### Measurement Setup:
