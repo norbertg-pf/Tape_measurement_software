@@ -1,4 +1,4 @@
-# Tape measurement testbench software
+# LN2 Tape Test Stand
 
 A simple quench detection system for measuring superconducting parameters of HTS tapes.
 
@@ -21,7 +21,7 @@ A simple quench detection system for measuring superconducting parameters of HTS
   - Performs the a current ramp
   - If an interlock signal is received thourg the DB26 connector, it immediately shuts off the current
 
-### Measurement Setup:
+## Measurement Setup:
 <img src="pics/QD_schematics.png" alt=" ">
 
 ## Manual
