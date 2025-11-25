@@ -26,6 +26,10 @@ A simple quench detection system for measuring superconducting parameters of HTS
 
 ## Manual
 
+##### Download the repo
+
+`git clone https://github.com/norbertg-pf/Tape_measurement_software`
+
 ##### Creating a virtual environemnt
 ```
 python -m venv dmm_env
