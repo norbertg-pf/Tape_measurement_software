@@ -52,9 +52,14 @@ pip install numpy
 
 #### Files
 
-`QD.tsp` - Lua script for Keithely 7510 DMM
-`TDK_PSU_Control.py` - Python code for controlling TDK Genesys+ power supply
+`QD.tsp` - Lua script for Keithely 7510 DMM \
+`TDK_PSU_Control.py` - Python code for controlling TDK Genesys+ power supply \
 `QD_ui.py` - User interface running on PC
 
 ### User interface:
 <img src="pics/user_interface_notes.png" alt=" ">
+
+
+#### TODO
+- Automatic Ic and n number analysis 
+- Automatic measurement data upload to the cloud
