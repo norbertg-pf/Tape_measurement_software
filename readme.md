@@ -48,7 +48,7 @@ pip install numpy
 `python.exe .\QD_ui.py`
 
 #### Compile the .exe file
-`pyinstaller --onefile --hidden-import TDK_PSU_Control --paths=. QD_ui.py  `
+`pyinstaller QD_ui.spec`
 
 #### Files
 
